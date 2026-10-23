@@ -7,3 +7,7 @@ __pycache__/
 venv/
 .pytest_cache/
 .DB_Store
+target/
+dbt_packages/
+logs/
+dbt/profiles/.user.yml
